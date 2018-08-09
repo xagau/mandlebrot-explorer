@@ -1,19 +1,17 @@
 # mandlebrot-explorer
 
-Bouncing Java Balls made with Java
+Mandelbrot Explorer, version 1.2
 
-This is a very simple application written by Sean Beecroft. This application demonstrates Threads, Timers, graphics painting among other things. It demonstrates how one can use collections. Subsequently this application also demonstrates some basic Newtonian physics. This application is inspired by PHUN. Friction is incomplete.
+Simple mandelbrot explorer written in 100% Java. Work is done by Sean Beecroft. Application is based off original work by Cay Horstmann.
 
-To run the application run the jar file.
+Application may be run by using:
 
-You can add balls to the application by clicking the mouse.
+Use the arrow keys to move backwards
 
-Sort of a silly application but it may be of use to someone.
+java -jar mandelbrotexplorer.jar
 
-java -jar javaballs.jar
+Screen shot
 
-screen shot:
+http://mandelbrotexplorer.googlecode.com/files/Screenshot-Mandelbrot.png
 
-http://javaballs.googlecode.com/files/javaballs.jpg
-
-Send Bitcoin Donations: 12KE1WptBXDhtgzRmPwRSCwW8nVs9S9hMk
+Send Bitcoin Donations: 16kwoJyhxDMkEJL3mtfd4YQai84972fBmF
