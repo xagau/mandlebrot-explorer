@@ -10,8 +10,4 @@ Use the arrow keys to move backwards
 
 java -jar mandelbrotexplorer.jar
 
-Screen shot
-
-http://mandelbrotexplorer.googlecode.com/files/Screenshot-Mandelbrot.png
-
 Send Bitcoin Donations: 16kwoJyhxDMkEJL3mtfd4YQai84972fBmF
